@@ -2,7 +2,7 @@
 color: brown;
 }
 body{
-font-family:arial;
+font-family:courier;
 color: black;
 line-height:25px ;
 }
@@ -40,15 +40,15 @@ background-color:bgb(238,251,255) ;
 padding:10px ;
 border-left:1px solid rgba(137,130,247,.2) ;
 }
-.back-grounds{
+.back-grounds{n
 color:black ;
-background-color: #FFEFD5;
-border:2px solid green ;
+background-color: #fff;
+border:2px solid  none;
 margin:8px 5px 3px 5px;
 padding:5px 5px 15px 10px ;
 border-radius:20px;
 
 }
 .body-background{
-background-color:#2F4F4F ;
+background-color:#efefef;
 }
