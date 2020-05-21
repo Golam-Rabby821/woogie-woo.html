@@ -2,17 +2,18 @@
 color: brown;
 }
 body{
-font-family:callibri ;
+font-family:arial;
 color: black;
-line-height:30px ;
+line-height:25px ;
 }
 .half_width{
 width: 50%;
 float: left;
 }
 .side_image{
-width:50% ;
-padding-left: 25%;
+width:80% ;
+height: 70%;
+padding:25px 10px 10px 25px;
 
 }
 .primary-btn{
@@ -38,4 +39,16 @@ background-color:bgb(238,251,255) ;
 .experience-item{
 padding:10px ;
 border-left:1px solid rgba(137,130,247,.2) ;
+}
+.back-grounds{
+color:black ;
+background-color: #FFEFD5;
+border:2px solid green ;
+margin:15px 10px 15px 10px ;
+padding:15px 10px 15px 10px ;
+border-radius:25px;
+
+}
+.body-background{
+background-color:#2F4F4F ;
 }
