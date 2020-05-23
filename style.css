@@ -2,13 +2,15 @@
 color: brown;
 }
 body{
-font-family:courier;
+font-family:"Times New Roman";
 color: black;
-line-height:25px ;
+font-size:22px ;
+line-height:normal ;
 }
 .half_width{
 width: 50%;
 float: left;
+
 }
 .side_image{
 width:80% ;
@@ -18,13 +20,15 @@ padding:25px 10px 10px 25px;
 }
 .primary-btn{
 color: white;
-background-color:#8845f4 ;
-padding:13px 42px 13px 42px ;
+background-color:rgba(0,200,230,.6);
+border-bottom:5px solid none;
+padding:13px 20px 13px 20px ;
+margin:15px 25px 20px 10px;
 border-radius:20px;
 text-decoration:none;
 }
 h1 { 
-font-size:1.5em;
+font-size:1.6em;
 }
 .container{
 padding-left:5% ;
@@ -40,15 +44,19 @@ background-color:bgb(238,251,255) ;
 padding:10px ;
 border-left:1px solid rgba(137,130,247,.2) ;
 }
-.back-grounds{n
+.back-grounds{
 color:black ;
 background-color: #fff;
 border:2px solid  none;
-margin:8px 5px 3px 5px;
+margin:25px 20px 15px 15px;
 padding:5px 5px 15px 10px ;
 border-radius:20px;
 
 }
 .body-background{
 background-color:#efefef;
+}
+.justify{
+text-align:justify;
+
 }
